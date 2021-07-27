@@ -2,9 +2,6 @@ import React from 'react'
 
 function a() {
     return (
-        <div>
-           
-        </div>
     )
 }
 
